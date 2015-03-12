@@ -6,3 +6,7 @@ For DST Course
 * a few
 * bullets
 * at a time
+
+### This was added on the desktop in vi
+#### Pretty cool, eh?
+
